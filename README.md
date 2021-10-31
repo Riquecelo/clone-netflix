@@ -5,4 +5,5 @@
 ### Proposta do projeto
 Praticar aprendizados adquiridos em HTML e CSS recriando a Interface do Netflix
 
-https://riquecelo.github.io/clone-netflix/
+[![](https://img.shields.io/badge/clone-Netflix-red)](https://riquecelo.github.io/clone-netflix/)
+
