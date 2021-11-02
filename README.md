@@ -18,7 +18,7 @@ Praticar aprendizados adquiridos em HTML e CSS recriando a Interface do Netflix 
 
 <hr>
 
-#### :arrow_down:Confira o resultado final clicando no botão abaixo 
+#### Confira o resultado final clicando no botão abaixo :arrow_down:
 
 
 
