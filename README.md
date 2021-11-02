@@ -21,6 +21,6 @@ Praticar aprendizados adquiridos em HTML e CSS recriando a Interface do Netflix 
 #### :arrow_down:Confira o resultado final clicando no botão abaixo 
 
 
-[![](https://img.shields.io/badge/acessar-clone--netflix-red)](https://riquecelo.github.io/clone-netflix/)
+
 
 [![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://riquecelo.github.io/clone-netflix/)
